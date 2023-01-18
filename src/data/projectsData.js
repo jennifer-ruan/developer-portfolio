@@ -11,39 +11,39 @@ import eight from '../assets/svg/projects/eight.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Employee Management',
+        projectName: '2D Shooting Game',
         projectDesc: 'This project aims to build an employee management system that consolidates all information of a company',
-        tags: ['React', 'CSS', 'Material Ui'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        tags: ['C++'],
+        code: '',
+        demo: 'https://www.youtube.com/watch?v=yGvx_FpoKLo&ab_channel=JenniferRuan',
         image: one
     },
     {
         id: 2,
-        projectName: 'Railway Tracking',
+        projectName: '3D Action Game',
         projectDesc: 'This project is a railway tracking system that allows users to obtain relevant information about train timing.',
-        tags: ['Django', 'Tailwind CSS'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        tags: ['C#', 'Unity'],
+        code: 'https://github.com/jennifer-ruan/mr-president',
+        demo: 'https://kimber1y.itch.io/get-down-mr-president',
         image: two
     },
     {
         id: 3,
-        projectName: 'Weather App',
-        projectDesc: 'Weather forecast systems and applications predict weather conditions based on multiple parameters.',
-        tags: ['Django', 'CSS', 'Material Ui'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: three
-    },
-    {
-        id: 4,
         projectName: 'Android Patient Tracker',
         projectDesc: 'This project involves the development of an Android application for viewing and managing patient data.',
         tags: ['Flutter', 'Firebase'],
         code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         image: four
+    },
+    {
+        id: 4,
+        projectName: '3D Platforming Game',
+        projectDesc: 'Weather forecast systems and applications predict weather conditions based on multiple parameters.',
+        tags: ['Django', 'CSS', 'Material Ui'],
+        code: '',
+        demo: '',
+        image: three
     },
     {
         id: 5,
