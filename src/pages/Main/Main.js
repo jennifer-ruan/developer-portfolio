@@ -8,16 +8,16 @@ function Main() {
     return (
         <div>
             <Helmet>
-                <title>{headerData.name} - Porfolio</title>
+                <title>{headerData.name} - Porftolio</title>
             </Helmet>
 
             <Navbar />        
             <Landing />
             <About />
-            <Education />
-            <Skills />
             <Experience />
             <Projects />
+            <Skills />
+            <Education /> 
             <Achievement />
             <Services />
             <Testimonials />
