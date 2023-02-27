@@ -14,13 +14,13 @@ import earth from "../assets/svg/projects/earth.svg";
 export const projectsData = [
   {
     id: 1,
-    projectName: "Space Exploration Game",
+    projectName: "React Mealplanner",
     projectDesc:
-      "Shoot enemies in randomly generated levels in this 2D C++ game I made over a weekend for Develop At Ubisoft 2022!",
-    tags: ["C++"],
-    code: "https://www.youtube.com/watch?v=yGvx_FpoKLo&ab_channel=JenniferRuan",
-    demo: "https://www.youtube.com/watch?v=yGvx_FpoKLo&ab_channel=JenniferRuan",
-    image: rocket,
+      "A single-page react app designed that makes use of a recipe API to give users the opportunity to meal plan and calculate nutrition information.",
+    tags: ["React", "HTML", "CSS"],
+    code: "https://github.com/jennifer-ruan/cookbook",
+    demo: "",
+    image: food,
   },
   {
     id: 2,
@@ -44,6 +44,16 @@ export const projectsData = [
   },
   {
     id: 4,
+    projectName: "Space Exploration Game",
+    projectDesc:
+      "Shoot enemies in randomly generated levels in this 2D C++ game I made over a weekend for Develop At Ubisoft 2022!",
+    tags: ["C++"],
+    code: "https://www.youtube.com/watch?v=yGvx_FpoKLo&ab_channel=JenniferRuan",
+    demo: "https://www.youtube.com/watch?v=yGvx_FpoKLo&ab_channel=JenniferRuan",
+    image: rocket,
+  },
+  {
+    id: 5,
     projectName: "3D Platforming Game",
     projectDesc:
       "Made a simple Katamari Damancy-inspired game in a team of four for a course-related game jam in Unity and C#.",
