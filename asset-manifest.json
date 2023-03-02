@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.b83dbb27.chunk.css",
-    "main.js": "/static/js/main.f4cb6be7.chunk.js",
-    "main.js.map": "/static/js/main.f4cb6be7.chunk.js.map",
+    "main.js": "/static/js/main.df4aff5b.chunk.js",
+    "main.js.map": "/static/js/main.df4aff5b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e33a63dc.js",
     "runtime-main.js.map": "/static/js/runtime-main.e33a63dc.js.map",
     "static/css/2.65f8c46c.chunk.css": "/static/css/2.65f8c46c.chunk.css",
@@ -63,7 +63,6 @@
     "static/media/eduPurple.b06b4e8e.svg": "/static/media/eduPurple.b06b4e8e.svg",
     "static/media/eduRed.a44e7ceb.svg": "/static/media/eduRed.a44e7ceb.svg",
     "static/media/eduYellow.8ad4464e.svg": "/static/media/eduYellow.8ad4464e.svg",
-    "static/media/eight.055ac6c9.svg": "/static/media/eight.055ac6c9.svg",
     "static/media/expBlack.bb06cbee.svg": "/static/media/expBlack.bb06cbee.svg",
     "static/media/expBlue.fc91e37c.svg": "/static/media/expBlue.fc91e37c.svg",
     "static/media/expGreen.16b06cc5.svg": "/static/media/expGreen.16b06cc5.svg",
@@ -77,9 +76,8 @@
     "static/media/fastify.6b82b37a.svg": "/static/media/fastify.6b82b37a.svg",
     "static/media/figma.cc8e1116.svg": "/static/media/figma.cc8e1116.svg",
     "static/media/firebase.1aa395c8.svg": "/static/media/firebase.1aa395c8.svg",
-    "static/media/five.3fc9b49e.svg": "/static/media/five.3fc9b49e.svg",
     "static/media/flutter.a87a000d.svg": "/static/media/flutter.a87a000d.svg",
-    "static/media/four.bd70304d.svg": "/static/media/four.bd70304d.svg",
+    "static/media/food.153a50bc.svg": "/static/media/food.153a50bc.svg",
     "static/media/gcp.89993b8e.svg": "/static/media/gcp.89993b8e.svg",
     "static/media/gimp.e90f970a.svg": "/static/media/gimp.e90f970a.svg",
     "static/media/girl1.6884bb72.svg": "/static/media/girl1.6884bb72.svg",
@@ -111,7 +109,6 @@
     "static/media/nginx.63e0789f.svg": "/static/media/nginx.63e0789f.svg",
     "static/media/numpy.91d932ca.svg": "/static/media/numpy.91d932ca.svg",
     "static/media/nuxtJS.6dcfb7a9.svg": "/static/media/nuxtJS.6dcfb7a9.svg",
-    "static/media/one.9ac983ad.svg": "/static/media/one.9ac983ad.svg",
     "static/media/opencv.36d7c202.svg": "/static/media/opencv.36d7c202.svg",
     "static/media/orangeTheme-boy.cc7bd962.svg": "/static/media/orangeTheme-boy.cc7bd962.svg",
     "static/media/orangeTheme-girl.af6ec93a.svg": "/static/media/orangeTheme-girl.af6ec93a.svg",
@@ -131,11 +128,9 @@
     "static/media/redTheme-boy.74f6dfaa.svg": "/static/media/redTheme-boy.74f6dfaa.svg",
     "static/media/redTheme-girl.e2b9dd83.svg": "/static/media/redTheme-girl.e2b9dd83.svg",
     "static/media/resume.385ca0bf.pdf": "/static/media/resume.385ca0bf.pdf",
-    "static/media/rocket.b0d208db.svg": "/static/media/rocket.b0d208db.svg",
+    "static/media/rocket.ab4c8d92.svg": "/static/media/rocket.ab4c8d92.svg",
     "static/media/ruby.775cc228.svg": "/static/media/ruby.775cc228.svg",
     "static/media/selenium.f0d42a91.svg": "/static/media/selenium.f0d42a91.svg",
-    "static/media/seven.d5cabb8e.svg": "/static/media/seven.d5cabb8e.svg",
-    "static/media/six.04a89b5f.svg": "/static/media/six.04a89b5f.svg",
     "static/media/sketch.fa6d7eb5.svg": "/static/media/sketch.fa6d7eb5.svg",
     "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf",
     "static/media/strapi.74cc583e.svg": "/static/media/strapi.74cc583e.svg",
@@ -143,8 +138,6 @@
     "static/media/swift.8a92ca47.svg": "/static/media/swift.8a92ca47.svg",
     "static/media/tailwind.01daca9b.svg": "/static/media/tailwind.01daca9b.svg",
     "static/media/tensorflow.04d29a7b.svg": "/static/media/tensorflow.04d29a7b.svg",
-    "static/media/three.e7994ba3.svg": "/static/media/three.e7994ba3.svg",
-    "static/media/two.4b4e9d26.svg": "/static/media/two.4b4e9d26.svg",
     "static/media/typescript.f66836b8.svg": "/static/media/typescript.f66836b8.svg",
     "static/media/unity.5103c8d1.svg": "/static/media/unity.5103c8d1.svg",
     "static/media/vitejs.11f3d899.svg": "/static/media/vitejs.11f3d899.svg",
@@ -161,6 +154,6 @@
     "static/css/2.65f8c46c.chunk.css",
     "static/js/2.91b0a0e0.chunk.js",
     "static/css/main.b83dbb27.chunk.css",
-    "static/js/main.f4cb6be7.chunk.js"
+    "static/js/main.df4aff5b.chunk.js"
   ]
 }
