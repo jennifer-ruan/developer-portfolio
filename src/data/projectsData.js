@@ -1,26 +1,19 @@
-import one from "../assets/svg/projects/one.svg";
-import two from "../assets/svg/projects/two.svg";
-import three from "../assets/svg/projects/three.svg";
-import four from "../assets/svg/projects/four.svg";
-import five from "../assets/svg/projects/five.svg";
-import six from "../assets/svg/projects/six.svg";
-import seven from "../assets/svg/projects/seven.svg";
-import eight from "../assets/svg/projects/eight.svg";
 import cannon from "../assets/svg/projects/cannon.svg";
 import chat from "../assets/svg/projects/chat.svg";
+import food from "../assets/svg/projects/food.svg";
 import rocket from "../assets/svg/projects/rocket.svg";
 import earth from "../assets/svg/projects/earth.svg";
 
 export const projectsData = [
   {
     id: 1,
-    projectName: "React Mealplanner",
+    projectName: "Space Exploration Game",
     projectDesc:
-      "A single-page react app designed that makes use of a recipe API to give users the opportunity to meal plan and calculate nutrition information.",
-    tags: ["React", "HTML", "CSS"],
-    code: "https://github.com/jennifer-ruan/cookbook",
-    demo: "",
-    image: food,
+      "Shoot enemies in randomly generated levels in this 2D C++ game I made over a weekend for Develop At Ubisoft 2022!",
+    tags: ["C++"],
+    code: "https://github.com/jennifer-ruan/SpaceGame",
+    demo: "https://www.youtube.com/watch?v=yGvx_FpoKLo&ab_channel=JenniferRuan",
+    image: rocket,
   },
   {
     id: 2,
@@ -34,6 +27,16 @@ export const projectsData = [
   },
   {
     id: 3,
+    projectName: "React Mealplanner",
+    projectDesc:
+      "A single-page react app designed that makes use of a recipe API to give users the opportunity to meal plan and calculate nutrition information.",
+    tags: ["React", "HTML", "CSS"],
+    code: "https://github.com/jennifer-ruan/cookbook",
+    demo: "",
+    image: food,
+  },
+  {
+    id: 4,
     projectName: "Social App Prototype",
     projectDesc:
       "Researched, ideated, designed, tested, and iterated on a prototype for a social app meant to connect millenials with the younger generation.",
@@ -41,16 +44,6 @@ export const projectsData = [
     code: "https://www.figma.com/proto/XgeNTCfJWJ832S7ZnO16fp/Hi-Fi-Prototype?node-id=195%3A2361&scaling=min-zoom",
     demo: "https://www.youtube.com/watch?v=xArKLByn1p4",
     image: chat,
-  },
-  {
-    id: 4,
-    projectName: "Space Exploration Game",
-    projectDesc:
-      "Shoot enemies in randomly generated levels in this 2D C++ game I made over a weekend for Develop At Ubisoft 2022!",
-    tags: ["C++"],
-    code: "https://www.youtube.com/watch?v=yGvx_FpoKLo&ab_channel=JenniferRuan",
-    demo: "https://www.youtube.com/watch?v=yGvx_FpoKLo&ab_channel=JenniferRuan",
-    image: rocket,
   },
   {
     id: 5,
